@@ -10,8 +10,6 @@ public class Num_206 {
         }
 
         System.out.println(head.val);
-
-
     }
 
 
